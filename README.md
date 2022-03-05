@@ -10,7 +10,8 @@
         src="http://img.shields.io/badge/-Velog-success?style=flat&logo=Vector Logo Zone&link=https://velog.io/@rayleigh_"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<br>
+<br><br>
+
 ![Rayleigh190 GitHub stats](https://github-readme-stats.vercel.app/api?username=rayleigh190&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayleigh190&layout=compact&theme=nightowl&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

@@ -9,7 +9,7 @@
 
 <h2 align="center"> Hi👋, I'm Rayleigh!🤗</h1>
 <p align="center">
-🔥 I usually work on the iOS platform.<br/>
+🔥 I usually work on the iOS & Django platform.<br/>
 👇 If you want to know more about me, look at my portfolio.<br/>
 </p>
 

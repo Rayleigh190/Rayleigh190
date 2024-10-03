@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&fontColor=282829&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS%2FDjango&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&fontColor=282829&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS%2FDjango&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46
   ">
-  <img alt="IMAGE" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&fontColor=282829&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46">
+  <img alt="IMAGE" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&fontColor=282829&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS%2FDjango&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46">
 </picture>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Software%20Engineer&section=header&fontAlign=50&textBg=false&desc=interested%20in%20iOS&descAlignY=59&fontSize=50&descSize=25&fontAlignY=46) -->
